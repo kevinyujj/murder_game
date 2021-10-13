@@ -1,0 +1,85 @@
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.navbar{
+    background-color: #0f0f0f;
+}
+
+
+.footer{
+    background-color: #44d62c;
+    background-image: url("../img/newbg.jpg");
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #44d62c;
+    /* background-image: linear-gradient(to bottom right,#0f0f0f, #44d62c, #0f0f0f); */
+    background-image: url("../img/newbg.jpg");
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    color:floralwhite;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color: white;
+}
+
+body{
+    color: white;
+    background-color: #000;
+    /* background-image: url("../img/newbg.jpg");
+    background-position: center;
+    background-size: cover;  */
+    /* background-repeat: no-repeat;  */
+    /* background-image: linear-gradient(to bottom right,#0f0f0f, #44d62c, #0f0f0f); */
+}
+
+
+
+.modal .modal-header {
+    color: floralwhite;
+    background-color: #44d62c;
+    background-image: url("../img/newbg.jpg");
+}
+
+    .modal .modal-header button {
+      color: floralwhite; }
+  
+  .modal .modal-body {
+    background-color: #0f0f0f; 
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.badgetag{
+    background-color: #44d62c;
+    color: #000;
+}
+
+.card-header{
+    text-align: center;
+}
+
+.card{
+    margin-right: 2rem;
+}
